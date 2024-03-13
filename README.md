@@ -64,9 +64,6 @@ Contributions are welcome! If you'd like to contribute to Chat Master, please fo
 3. Make your changes and ensure they are well-documented and tested.
 4. Submit a pull request detailing your changes.
 
-## License
-
-[MIT License](LICENSE)
 
 ## Contact
 
